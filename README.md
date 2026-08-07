@@ -8,8 +8,10 @@ A topologia foi simulada no Cisco Packet Tracer e implementada em ambiente virtu
 
 ## Topologia
 
+## Topologia
+
 <p align="center">
-  <img src="images/assets/network-scenario-5-email-servicesdocsassetstopologia-cenario-5.png.jpeg" alt="Topologia do Cenário 5" width="100%">
+  <img src="images/network-scenario-5-email-servicesdocsassetstopologia-cenario-5.png.jpeg" alt="Topologia do Cenário 5" width="100%">
 </p>
 
 ## Tecnologias utilizadas
