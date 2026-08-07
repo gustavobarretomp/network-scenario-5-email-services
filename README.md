@@ -6,7 +6,6 @@ O cenário representa uma infraestrutura com cinco roteadores, cinco redes locai
 
 A topologia foi simulada no Cisco Packet Tracer e implementada em ambiente virtualizado com Ubuntu Server.
 
-## Topologia
 
 ## Topologia
 
